@@ -6,13 +6,13 @@ I'm [Angelee Aldueza](https://angeleealdueza.github.io/), an experienced Softwar
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeleealdueza&theme=dracula)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=angeleealdueza&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeleealdueza&theme=dracula)](https://git.io/streak-stats)
+  
   <img src="https://github-readme-stats.vercel.app/api?username=angeleealdueza&count_private=true&show_icons=true&theme=dracula&line_height=33">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeleealdueza&count_private=true&hide=assembly,php,java&theme=dracula&line_height=10&langs_count=8">
+
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=angeleealdueza&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <h3>Languages and Tools</h3>
